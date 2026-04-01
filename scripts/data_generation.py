@@ -1,4 +1,4 @@
-"""Generate synthetic geospatial data for testing"""
+"""Generate synthetic geospatial data for testing..."""
 
 import geopandas as gpd
 import numpy as np
