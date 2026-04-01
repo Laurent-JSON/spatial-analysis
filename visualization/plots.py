@@ -1,4 +1,4 @@
-"""Statistical plotting for geospatial data"""
+"""Statistical plotting for geospatial data..."""
 
 import matplotlib.pyplot as plt
 import seaborn as sns
