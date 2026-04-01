@@ -1,4 +1,4 @@
-"""Geospatial visualization and mapping"""
+"""Geospatial visualization and mapping..."""
 
 from .maps import MapVisualizer
 from .plots import StatisticalPlots
