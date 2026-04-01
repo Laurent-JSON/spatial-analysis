@@ -1,4 +1,4 @@
-"""Animated maps and visualizations"""
+"""Animated maps and visualizations..."""
 
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
