@@ -1,4 +1,4 @@
-"""Static map visualization utilities"""
+"""Static map visualization utilities..."""
 
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
