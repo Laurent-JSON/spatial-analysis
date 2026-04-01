@@ -1,4 +1,4 @@
-"""Export geospatial data to various formats"""
+"""Export geospatial data to various formats/"""
 
 import geopandas as gpd
 import json
