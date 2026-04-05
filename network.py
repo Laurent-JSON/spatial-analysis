@@ -1,4 +1,4 @@
-"""Network analysis for spatial data..."""
+"""Network analysis for spatial data...."""
 
 import geopandas as gpd
 import networkx as nx
