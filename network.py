@@ -8,7 +8,7 @@ from typing import List, Tuple, Dict, Optional
 import pandas as pd
 
 class NetworkAnalyzer:
-    """Spatial network analysis"""
+    """Spatial network analysis."""
     
     def __init__(self):
         self.graph = None
