@@ -56,7 +56,7 @@ class NetworkAnalyzer:
             path = nx.shortest_path(self.graph, start_node, end_node, weight='weight')
             distance = nx.shortest_path_length(self.graph, start_node, end_node, weight='weight')
             
-            # Create path geometry
+            # Create path geometry...
             path_coords = []
             for node in path:
                 path_coords.append(node)
