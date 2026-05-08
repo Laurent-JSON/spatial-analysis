@@ -1,4 +1,4 @@
-"""Unit tests for geometry utilities"""
+"""Unit tests for geometry utilities. """
 
 import unittest
 import geopandas as gpd
