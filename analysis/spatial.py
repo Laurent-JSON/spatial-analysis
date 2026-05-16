@@ -1,4 +1,4 @@
-"""Core spatial analysis operations"""
+"""Core spatial analysis operations..."""
 
 import geopandas as gpd
 import pandas as pd
