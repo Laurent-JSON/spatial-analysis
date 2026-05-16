@@ -135,7 +135,7 @@ class ProductionConfig(Config):
     DEBUG = False
     LOGGING_CONFIG = Config.LOGGING
 
-# Configuration factory
+# Configuration factory...
 def get_config(env: str = 'development') -> Config:
     """Get configuration based on environment"""
     configs = {
