@@ -1,4 +1,4 @@
-"""Data loading and management module"""
+"""Data loading and management module..."""
 
 from .loaders import DataLoader
 from .sources import DataSourceManager
