@@ -57,7 +57,7 @@ class Config:
         'overlaps'
     ]
     
-    # Data sources
+    # Data sources...
     DATA_SOURCES = {
         'natural_earth': {
             'base_url': 'https://naturalearth.s3.amazonaws.com',
