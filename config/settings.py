@@ -39,7 +39,7 @@ class Config:
         'cmap': 'viridis'
     }
     
-    # Classification methods
+    # Classification method.
     CLASSIFICATION_METHODS = [
         'equal_interval',
         'quantiles',
