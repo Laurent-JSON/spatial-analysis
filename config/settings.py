@@ -1,4 +1,4 @@
-"""Configuration settings for the project..."""
+"""Configuration settings for the project."""
 
 import os
 from pathlib import Path
