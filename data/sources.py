@@ -1,4 +1,4 @@
-"""Manage external data sources and APIs"""
+"""Manage external data sources and APIs."""
 
 import geopandas as gpd
 import requests
